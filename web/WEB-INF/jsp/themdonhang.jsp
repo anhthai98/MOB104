@@ -97,7 +97,8 @@
                                     <div class="form-group row">
                                         <label class="control-label text-right col-md-3">Cách thức trả phí</label>
                                         <div class="col-md-9">
-                                            <input type="number" class="form-control" style="border-color: #00a400">
+                                            <label><input type="radio" name="optradio"> Chuyển khoản</label><br/>
+                                            <label><input type="radio" name="optradio"> Nhận hàng rồi thanh toán</label>
                                         </div>
                                     </div>
                                 </div>
